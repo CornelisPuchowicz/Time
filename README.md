@@ -19,3 +19,4 @@ To run this project you need integrated development environment (IDE) like Intel
 
 ## Preview
 
+![git3](https://user-images.githubusercontent.com/96597273/170968800-70d78a0b-01d5-4baf-9ca9-cee574f50390.png)
